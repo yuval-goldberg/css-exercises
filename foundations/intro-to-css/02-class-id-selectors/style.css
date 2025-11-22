@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id_one {
+    color: blue;
+    font-size: 36px;
+}
+
+.third_list {
+    font-size: 24px;
+}
+
+#id_two {
+    background-color: #D1FFBD;
+    font-size: 24px;
+    font-weight: bold;
+}
